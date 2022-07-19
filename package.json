@@ -63,7 +63,8 @@
   "peerDependencies": {
     "react": ">=16.0.0",
     "react-native": ">=0.59",
-    "react-test-renderer": ">=16.0.0"
+    "react-test-renderer": ">=16.0.0",
+    "jest": ">=28.0.0"
   },
   "scripts": {
     "clean": "del build",
